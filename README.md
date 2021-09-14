@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZarishIqbal
+- 👀 I’m interested in web and mobile application development.
+- 🌱 I’m currently learning typescript and redux
+- 📫 How to reach me : zarishiqbal.zi@gmail.com
