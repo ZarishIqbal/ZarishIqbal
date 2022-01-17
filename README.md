@@ -1,5 +1,5 @@
 ## Hello 👋 
-### I’m @ZarishIqbal, a full stack software engineer working Madinah, Saudi Arabia.
+### I’m @ZarishIqbal, a full stack software engineer working in Madinah, Saudi Arabia.
 
 - 🏢 I'm currently working at [CERP LABS](https://labs.cerp.org.pk/)
 - 👀 I’m interested in web and mobile application development. 
