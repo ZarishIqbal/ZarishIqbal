@@ -1,5 +1,5 @@
 ## Hello 👋 
-### I’m @ZarishIqbal, a full stack software engineer working in Dammam, Saudi Arabia.
+### I’m @ZarishIqbal, a full stack developer working in Dammam, Saudi Arabia.
 
 - 🏢 I'm currently working at [Innovation Labs](https://innovationlabs.ai/)
 - 👀 I’m interested in web and mobile application development. 
